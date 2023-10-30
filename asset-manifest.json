@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skyz9/static/css/main.73109a6c.css",
+    "main.js": "/skyz9/static/js/main.7e5a9505.js",
+    "static/js/787.9a7d845f.chunk.js": "/skyz9/static/js/787.9a7d845f.chunk.js",
+    "static/media/banner3.jpg": "/skyz9/static/media/banner3.b1f41d433b96e402b7ae.jpg",
+    "static/media/Ugali Fish.jpg": "/skyz9/static/media/Ugali Fish.791a82d7e4b7330dd473.jpg",
+    "static/media/chips kuku.jpg": "/skyz9/static/media/chips kuku.aed30c9893327a2caf75.jpg",
+    "static/media/ chips masala.jpg": "/skyz9/static/media/ chips masala.e6254bda96382b12b6dc.jpg",
+    "static/media/Ugali Nyama.jpg": "/skyz9/static/media/Ugali Nyama.761042660fb7648dab0a.jpg",
+    "static/media/Chips plain.jpg": "/skyz9/static/media/Chips plain.4e62bb913cd95f8368d5.jpg",
+    "static/media/Ugali Chicken.jpg": "/skyz9/static/media/Ugali Chicken.fc556abf53b17ecf0613.jpg",
+    "index.html": "/skyz9/index.html",
+    "main.73109a6c.css.map": "/skyz9/static/css/main.73109a6c.css.map",
+    "main.7e5a9505.js.map": "/skyz9/static/js/main.7e5a9505.js.map",
+    "787.9a7d845f.chunk.js.map": "/skyz9/static/js/787.9a7d845f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73109a6c.css",
+    "static/js/main.7e5a9505.js"
+  ]
+}
